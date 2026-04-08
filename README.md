@@ -1,64 +1,70 @@
-<h1 align="center">Oii! Eu sou a Maria Letícia 👋</h1>
+<h1 align="center">Maria Letícia da Silva</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação • Frontend em formação • Blumenau/SC
+  <i>Estudante de Sistemas de Informação • Frontend em formação • Blumenau/SC</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6D28D9&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil" />
 </p>
 
----
+<hr>
 
-## 👨‍💻 Sobre mim!
+## Sobre mim
 
-- 🎓 Tenho 19 anos
-- 📚 Estou cursando o 1º semestre de Sistemas de Informação na **FURB**
-- 🚀 Faço parte do programa **Entra21**
-- 💻 Estou estudando **Frontend no SENAI**
-- 📍 Moro em **Blumenau - SC**
-- 🌱 Atualmente aprendendo **HTML, CSS e JavaScript**
-- 🎯 Buscando evoluir e conquistar minha primeira oportunidade na área de tecnologia
+• 19 anos  
+• Cursando o 1º semestre de Sistemas de Informação na **FURB**  
+• Participante do programa **Entra21**  
+• Estudando **Frontend no SENAI**  
+• Blumenau - SC  
+• Aprendendo **HTML, CSS e JavaScript**  
+• Em busca da primeira oportunidade na área de tecnologia  
 
----
+<hr>
 
-## 🛠️ Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+<hr>
 
-## 🚀 Objetivos
+## Objetivos
 
-- [ ] Criar meus primeiros projetos completos
-- [ ] Aprender e evoluir na faculdade e no curso
-- [ ] Conseguir minha primeira oportunidade na área
+• Criar meus primeiros projetos completos  
+• Evoluir na faculdade e no curso  
+• Conquistar minha primeira oportunidade na área  
 
----
+<hr>
 
-## 📌 Projetos
+## Projetos
 
-No momento estou desenvolvendo meus conhecimentos e em breve adicionarei meus projetos aqui. ✨
+No momento, estou desenvolvendo meus conhecimentos e em breve adicionarei meus projetos aqui.
 
----
+<hr>
 
-## 🌐 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:marials2607.sl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/marialeticia26">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/ml_silva26">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
+<hr>
 
-
-<p align="center">Obrigada por visitar meu perfil! 😄💗</p>
+<p align="center">
+  <sub>Obrigada por visitar meu perfil :)</sub>
+</p>
