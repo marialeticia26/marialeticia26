@@ -49,13 +49,7 @@ No momento, estou desenvolvendo meus conhecimentos e em breve adicionarei meus p
 
 <hr>
 
----
 
-## Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marialeticia26/marialeticia26/output/ocean.gif" />
-</p>
 
 ## Contato
 
