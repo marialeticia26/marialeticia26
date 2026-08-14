@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-• 19 anos  
+• 20 anos  
 • Cursando o 1º semestre de Sistemas de Informação na **FURB**  
 • Participante do programa **Entra21**  
 • Estudando **Frontend no SENAI**  
