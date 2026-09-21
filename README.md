@@ -37,14 +37,7 @@
 
 ## Projetos
 
-Neste perfil estão projetos e atividades desenvolvidos durante a graduação em Sistemas de Informação e o Entra21/SENAI, incluindo:
-
-• Desenvolvimento Front-End  
-• Aplicações com Angular  
-• Consumo de APIs  
-• Interfaces e protótipos  
-• Projetos acadêmicos em Java  
-• Exercícios e projetos de programação  
+No momento, estou desenvolvendo meus conhecimentos e em breve adicionarei mais projetos meus aqui. 
 
 <hr>
 
