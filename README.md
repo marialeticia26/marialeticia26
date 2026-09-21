@@ -1,55 +1,52 @@
 <h1 align="center">Maria Letícia da Silva</h1>
 
 <p align="center">
-  <i>Estudante de Sistemas de Informação • Frontend em formação • Blumenau/SC</i>
+  <i>Estudante de Sistemas de Informação na FURB | Desenvolvimento Front-End pelo Entra21/SENAI</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6D28D9&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6D28D9&center=true&vCenter=true&lines=Tecnologia+%7C+Projetos+%7C+Front-End;Bem-vindo+ao+meu+perfil" />
 </p>
 
 <hr>
 
 ## Sobre mim
 
-• 20 anos  
-• Cursando o 1º semestre de Sistemas de Informação na **FURB**  
-• Participante do programa **Entra21**  
-• Estudando **Frontend no SENAI**  
+• Estudante de **Sistemas de Informação na FURB**  
+• Concluindo **Desenvolvimento Front-End pelo Entra21/SENAI**  
 • Blumenau - SC  
-• Aprendendo **HTML, CSS e JavaScript**  
-• Em busca da primeira oportunidade na área de tecnologia  
+• Experiência acadêmica com projetos individuais e em equipe  
+• Interesse em tecnologia, comunicação e projetos digitais  
 
 <hr>
 
-## Tecnologias que estou aprendendo
+## Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-7C3AED?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-<hr>
-
-## Objetivos
-
-• Criar meus primeiros projetos completos  
-• Evoluir na faculdade e no curso  
-• Conquistar minha primeira oportunidade na área  
 
 <hr>
 
 ## Projetos
 
-No momento, estou desenvolvendo meus conhecimentos e em breve adicionarei meus projetos aqui.
+Neste perfil estão projetos e atividades desenvolvidos durante a graduação em Sistemas de Informação e o Entra21/SENAI, incluindo:
+
+• Desenvolvimento Front-End  
+• Aplicações com Angular  
+• Consumo de APIs  
+• Interfaces e protótipos  
+• Projetos acadêmicos em Java  
+• Exercícios e projetos de programação  
 
 <hr>
-
-
 
 ## Contato
 
@@ -57,11 +54,13 @@ No momento, estou desenvolvendo meus conhecimentos e em breve adicionarei meus p
   <a href="mailto:marials2607.sl@gmail.com">
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/maria-leticia-da-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://github.com/marialeticia26">
     <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ml_silva26">
-    <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -70,4 +69,3 @@ No momento, estou desenvolvendo meus conhecimentos e em breve adicionarei meus p
 <p align="center">
   <sub>Obrigada por visitar meu perfil :)</sub>
 </p>
-
